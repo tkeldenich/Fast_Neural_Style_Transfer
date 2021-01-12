@@ -2,17 +2,14 @@
 
 # Transfert de style sur une image par Deep Learning plus d'informations ici !
 
-## Les étapes:
-## Importez votre image
-## - Entrez le nom de l'image ici:
-## - Nom_du_fichier_image:
-"
+Les étapes:
+Importez votre image
+- Entrez le nom de l'image ici:
+Nom_du_fichier_image: " "
+Choisissez le style à transférez
+style:
 
-"
-## Choisissez le style à transférez
-## style:
-
-## Puis exécutez le code en appuyant sur les touches "Shift + Entrer" ! :)
+Puis exécutez le code en appuyant sur les touches "Shift + Entrer" ! :)
 
 
 
