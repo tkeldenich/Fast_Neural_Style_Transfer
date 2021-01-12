@@ -1,6 +1,6 @@
 ![alt text](https://i.imgur.com/kJtHuUh.jpg)
 
-# **Transfert de style sur une image** par *Deep Learning* plus d'informations [ici](https://https://inside-machinelearning.com/) !
+# **Transfert de style sur une image** par *Deep Learning* plus d'informations [ici](https://inside-machinelearning.com/transfert-de-style-application/) !
 
 **Ouvrez le fichier** "Fast_Neural_Style_Transfer_Execution.ipynb" puis **suivez les étapes**:
 
