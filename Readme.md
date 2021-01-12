@@ -2,7 +2,7 @@
 
 # **Transfert de style sur une image** par *Deep Learning* plus d'informations [ici](https://https://inside-machinelearning.com/) !
 
-Les étapes:
+**Ouvrez le fichier** "Fast_Neural_Style_Transfer_Execution.ipynb" puis **suivez les étapes**:
 
 - **Importez** votre image
 
@@ -16,5 +16,6 @@ Les étapes:
   
 Puis **exécutez le code** en appuyant sur les touches "Shift + Entrer" ! :)
 
+*Résultat du transfert de style*:
     
 ![png](Readme_files/Readme_1_1.png)
